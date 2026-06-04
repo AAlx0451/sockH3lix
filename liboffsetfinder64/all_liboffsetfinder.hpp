@@ -15,7 +15,7 @@
 #define BIT_AT(v,pos) ( (v >> pos) % 2 )
 
 #define info(a ...) ({printf(a),printf("\n");})
-#define log(a ...) ({if (dbglog) printf(a),printf("\n");})
+#define blog(a ...) ({if (dbglog) printf(a),printf("\n");})
 #define warning(a ...) ({if (dbglog) printf("[WARNING] "), printf(a),printf("\n");})
 #define error(a ...) ({printf("[Error] "),printf(a),printf("\n");})
 

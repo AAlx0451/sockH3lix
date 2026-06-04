@@ -10,9 +10,9 @@
 
 @interface ViewController : UIViewController
 
-- (IBAction)go:(id)sender;
-@property (weak, nonatomic) IBOutlet UIButton *gobtn;
-@property (weak, nonatomic) IBOutlet UILabel *statusLabel;
+@property (strong, nonatomic) UIButton *gobtn;
+@property (strong, nonatomic) UILabel *statusLabel;
+
+- (void)go:(id)sender;
 
 @end
-
