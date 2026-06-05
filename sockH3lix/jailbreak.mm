@@ -3,7 +3,7 @@
 //  doubleH3lix
 //
 //  Created by tihmstar on 18.02.18.
-//  Copyright © 2018 tihmstar. All rights reserved.
+//  Copyright © 2018 tihmstar.
 //
 
 #include <stdio.h>
@@ -1352,11 +1352,4 @@ size_t get_zone_map_ref(void) {
         }
     }
     return addr;
-}
-
-namespace std {
-    inline namespace __1 {
-        bad_function_call::~bad_function_call() noexcept {}
-        const char* bad_function_call::what() const noexcept { return "bad_function_call"; }
-    }
 }
