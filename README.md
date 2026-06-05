@@ -23,4 +23,7 @@ sockH3lix offers some useful kernel patches and features missing from doubleH3li
     * Smaller but useful codebase changes to reduce system calls count and increase stability.
 
 ### License
-While doubleH3lix had copyright ambiguity due to the missing `LICENSE` file, it's licensed under the LGPLv2.1 license for now.
+sockH3lix is an open-source software licensed under the LGPLv3
+
+img4tool is an open-source software licensed under the LGPLv3
+libplist is an open-source software licensed under the LGPLv2.1
