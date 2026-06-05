@@ -3,7 +3,7 @@
 //  offsetfinder64
 //
 //  Created by tihmstar on 10.01.18.
-//  Copyright © 2018 tihmstar. All rights reserved.
+//  Copyright © 2018 tihmstar.
 //
 
 #ifndef offsetfinder64_hpp

@@ -3,7 +3,7 @@
 //  liboffsetfinder64
 //
 //  Created by tihmstar on 09.03.18.
-//  Copyright © 2018 tihmstar. All rights reserved.
+//  Copyright © 2018 tihmstar.
 //
 
 #define LOCAL_FILENAME "insn.cpp"
