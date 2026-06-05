@@ -3,7 +3,7 @@
 //  d0ubleH3lix
 //
 //  Created by tihmstar on 10.12.17.
-//  Copyright © 2017 tihmstar. All rights reserved.
+//  Copyright © 2017 tihmstar.
 //
 
 #import "ViewController.h"

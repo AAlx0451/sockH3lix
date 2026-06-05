@@ -3,7 +3,6 @@
 //  sockH3lix
 //
 //  Created by SXX on 2020/7/25.
-//  Copyright © 2020 tihmstar. All rights reserved.
 //
 #include <stdio.h>
 #include <stdint.h>
