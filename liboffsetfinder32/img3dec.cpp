@@ -3,7 +3,6 @@
 //  sockH3lix
 //
 //  Created by SXX on 2020/12/19.
-//  Copyright © 2020 tihmstar. All rights reserved.
 //
 
 #if !__arm64__
@@ -110,7 +109,7 @@ dumpTreeNode(DeviceTreeNode *Node, int indent) {
         for (i=0; i< indent ; i++) { strcat(temp,"|  "); }
         strcat (temp, "+--");
         strncat (buffer, temp, 1024);
-        sprintf (temp, "%s %d bytes: ", dtp->name, dtp->length);
+        snprintf (temp, sizeof(temp), "%s %d bytes: ", dtp->name, dtp->length);
         strncat (buffer, temp, 1024);
         
         if (strcmp(dtp->name,"name") == 0) {

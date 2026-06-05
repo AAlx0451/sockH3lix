@@ -3,7 +3,6 @@
 //  sockH3lix
 //
 //  Created by SXX on 2020/12/19.
-//  Copyright © 2020 tihmstar. All rights reserved.
 
 #if !__arm64__
 // (C)2009 Willem Hengeveld  itsme@xs4all.nl

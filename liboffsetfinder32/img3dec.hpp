@@ -3,7 +3,6 @@
 //  sockH3lix
 //
 //  Created by SXX on 2020/12/19.
-//  Copyright © 2020 tihmstar. All rights reserved.
 //
 
 #ifndef img3dec_hpp
