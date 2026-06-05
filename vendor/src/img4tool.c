@@ -3,7 +3,7 @@
 //  img4tool
 //
 //  Created by tihmstar on 15.06.16.
-//  Copyright © 2016 tihmstar. All rights reserved.
+//  Copyright © 2016 tihmstar.
 //
 
 #include <stdio.h>

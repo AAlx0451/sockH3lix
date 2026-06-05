@@ -3,7 +3,7 @@
 //  img4tool
 //
 //  Created by tihmstar on 03.09.16.
-//  Copyright © 2016 tihmstar. All rights reserved.
+//  Copyright © 2016 tihmstar.
 //
 
 #ifndef img4tool_h
